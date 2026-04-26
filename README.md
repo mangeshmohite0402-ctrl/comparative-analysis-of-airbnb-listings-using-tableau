@@ -1,4 +1,4 @@
-# 🏡 A Comparative Airbnb Analysis Dashboard Using Tableau
+# 🏡 Comparative Analysis of Airbnb Listings Using Tableau
 
 # 📄 Description:
 Analyzed Airbnb public listings data from Chicago and New Orleans, cleaned and transformed it into a dataset (airbnb-eda), and built an interactive Tableau dashboard. The dashboard compares city-level trends in pricing, availability, property types, and host performance.
