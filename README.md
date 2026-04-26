@@ -1,4 +1,4 @@
-🏡 Comparative Airbnb of Airbnb Listings Using Tableau
+# 🏡 Comparative Airbnb of Airbnb Listings Using Tableau
 
 # 📌 Project Overview
 This project focuses on building an interactive Tableau dashboard to compare Airbnb markets in Chicago and New Orleans. It highlights key trends in pricing, availability, host performance, and customer preferences using real-world Airbnb listings data.
