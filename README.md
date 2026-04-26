@@ -1,71 +1,81 @@
-# 🏡 Comparative Airbnb of Airbnb Listings Using Tableau
+# 🏡 Comparative Analysis of Airbnb Listings (Tableau)
+# 📌 Overview
 
-# 📌 Project Overview
-This project focuses on building an interactive Tableau dashboard to compare Airbnb markets in Chicago and New Orleans. It highlights key trends in pricing, availability, host performance, and customer preferences using real-world Airbnb listings data.
+This project analyzes Airbnb markets in Chicago and New Orleans using an interactive Tableau dashboard.
+It focuses on uncovering trends in pricing, availability, host performance, and customer preferences to enable data-driven decision-making.
 
+# 🎯 Objectives
+Compare Airbnb market dynamics across two major cities
+Identify revenue drivers and demand patterns
+Analyze customer preferences and booking behavior
+Highlight top-performing hosts and property trends
 # 📊 Dataset
 Public Airbnb listings dataset
-Covers two major cities:
+Cities covered:
 Chicago
 New Orleans
-
-# ⚙️ Key Features
-# 🧹 Data Cleaning & Preparation
-Cleaned and transformed raw data into an EDA-ready structured dataset
-Standardized inconsistent fields:
-Neighborhoods
+🧹 Data Cleaning & Preparation
+Cleaned and structured raw data for analysis
+Standardized:
+Neighborhood names
 Property types
-Host details
-Ensured data consistency and accuracy for reliable analysis
-# 📈 Data Visualization (Tableau Dashboard)
-Developed an interactive Tableau dashboard for comparative analysis
-Created 6+ visualizations, including:
-Availability trends
-Pricing by room type
-Host revenue rankings
-Stay duration analysis
-Capacity analysis
-# 🔍 Insights & Analysis
-Enabled stakeholders to:
-Identify market gaps
-Understand revenue drivers
-Analyze customer preferences
-Interactive filters allow dynamic exploration across cities and metrics
+Host information
+Handled inconsistencies and ensured data accuracy
+# 📈 Tableau Dashboard
 
-# 🔑 Key Insights
-# 📊 Availability:
-Chicago: 1.3M listings
-New Orleans: 0.9M listings
-# 💰 Revenue by Property Type:
-Entire homes/apartments generated the highest revenue (2M+)
+Developed an interactive dashboard with 6+ visualizations:
+
+# 📊 Availability Trends
+💰 Pricing by Room Type
+🏆 Host Revenue Analysis
+🛏️ Stay Duration Insights
+🏠 Property Capacity Analysis
+⭐ Ratings & Property Distribution
+
+🔎 Includes filters for dynamic comparison across cities and metrics
+
+# 🔍 Key Insights
+Availability:
+Chicago: ~1.3M listings
+New Orleans: ~0.9M listings
+Revenue Trends:
+Entire homes/apartments generated 2M+ revenue
 Private rooms contributed significantly less
-# 🏆 Top Hosts:
-Identified high-performing hosts and revenue distribution patterns
-# 🛏️ Stay Trends:
-Short stays (1-night bookings) dominated demand
-Most common in 1-bedroom properties
-# ⭐ Ratings & Property Trends:
+Customer Behavior:
+Short stays (1-night bookings) dominate demand
+Most bookings are for 1-bedroom properties
+Ratings & Preferences:
 Average rating: 4.38
-Most listings offer:
-2–3 bedrooms
-1–2 bathrooms
+Most listings have 2–3 bedrooms and 1–2 bathrooms
+Top Hosts:
+Identified high-performing hosts and revenue distribution patterns
 
 # 🛠️ Tools & Technologies
-Tableau (Dashboard & Visualization)
+Tableau – Dashboard & Visualization
 Data Cleaning & Transformation
 Exploratory Data Analysis (EDA)
 
-# 🚀 How to Use
-Open the Tableau workbook (.twb / .twbx file)
-Explore dashboards using filters and interactive visuals
-Analyze trends across cities, property types, and pricing
+#🚀 How to Use
+Download the .twb / .twbx file
+Open in Tableau
+Use filters to explore:
+City-wise comparison
+Pricing trends
+Property types
+Host performance
 
-# 📌 Conclusion
-This project demonstrates how data visualization can uncover actionable insights in the short-term rental market, helping stakeholders make data-driven decisions.
+# 💡 Business Impact
+
+This project demonstrates how data visualization can uncover actionable insights in the short-term rental market, helping:
+
+Investors identify profitable opportunities
+Hosts optimize pricing strategies
+Businesses understand customer demand
+
+# 📌 Future Improvements
+Add more cities for broader comparison
+Integrate time-series forecasting
+Include sentiment analysis from reviews
 
 # 👤 Author
-Shruti Walunj
-
-
-
-
+Mangesh Mohite
